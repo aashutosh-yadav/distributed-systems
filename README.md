@@ -104,10 +104,3 @@ For this command, define a `worker` service in your Compose file. Avoid fixed ho
 | Separate physical machines | No | No | No |
 | Setup complexity | Low | Medium | Medium |
 
-### Recommended Learning Path
-
-1. **Goroutines:** Understand concurrency, channels, synchronization, and race conditions.
-2. **OS processes:** Implement TCP communication, message serialization, and node failure handling.
-3. **Docker:** Run a multi-node cluster and experiment with network failures, retries, and recovery.
-
-This progression helps you move from concurrent programming to distributed systems while gradually introducing the challenges of communication, isolation, and failure handling.
